@@ -51,4 +51,6 @@ To build and scale Ensign Hospital Management System, we are raising **₦500 mi
 ## 🤝 Join Us
 We are looking for **investors, strategic partners, and pilot hospitals** to help bring this innovation to life. Let's work together to revolutionize healthcare management! 
 
-📧 **Contact us**: [Your Email or Website]
+📧 **Contact us**: 
+- info@fundafrica.net
+- +234 905 758 2842 - WhatsApp Only
